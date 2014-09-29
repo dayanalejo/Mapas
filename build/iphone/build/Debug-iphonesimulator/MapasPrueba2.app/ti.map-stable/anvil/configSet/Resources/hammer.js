@@ -1,1 +1,0 @@
-/Users/desarrollador1/Documents/Titanium_Studio_Workspace/MapasPrueba2/Resources/ti.map-stable/anvil/configSet/Resources/hammer.js
