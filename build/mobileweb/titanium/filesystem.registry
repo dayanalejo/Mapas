@@ -1,0 +1,301 @@
+ts	1411413234000
+Default-Landscape.png	446500
+Default-Portrait.png	56963
+Default.png	87123
+KS_nav_ui.png	748
+KS_nav_views.png	683
+app.js	3402
+appicon.png	16659
+appicon144.png	23341
+apple-touch-icon-114x114-precomposed.png	15820
+apple-touch-icon-57x57-precomposed.png	6790
+apple-touch-icon-72x72-precomposed.png	8844
+apple-touch-icon-precomposed.png	6790
+favicon.ico	1068
+themes
+	common.css	7631
+	default
+		Facebook
+			login.png	3069
+			loginPressed.png	3105
+			loginWide.png	5261
+			loginWidePressed.png	5265
+			logout.png	3168
+			logoutPressed.png	3220
+		Map
+			location.png	800
+			marker_green.png	1377
+			marker_purple.png	1379
+			marker_red.png	1417
+		UI
+			TableViewRow
+				check.png	741
+				child.png	467
+				detail.png	860
+				detailActive.png	869
+		default.css	634
+ti.map-stable
+	README.md	14
+	android
+		.classpath	1219
+		CHANGELOG.txt	95
+		LICENSE	12717
+		assets
+			README	270
+		build.properties.example	329
+		build.xml	293
+		dist
+			ti.map-android-2.1.4.zip	1207357
+		documentation
+			ATTRIBUTION.md	188
+			changelog.md	1656
+			index.md	1992
+		example
+			app.js	1548
+			map_pin.png	4656
+			map_pin@2x.png	6094
+			tests
+				3d.js	2448
+				annotations.js	3208
+				camera.js	3780
+				multiMap.js	1554
+				properties.js	2283
+				routes.js	2188
+			ui.js	948
+		hooks
+			README	84
+			add.py	755
+			install.py	295
+			remove.py	763
+			uninstall.py	294
+		lib
+			google-play-services.jar	1283446
+			version	11
+		manifest	451
+		platform
+			README	484
+		src
+			ti
+				map
+					AnnotationProxy.java	11260
+					MapModule.java	3924
+					RouteProxy.java	4000
+					TiMapInfoWindow.java	8189
+					TiMarker.java	624
+					TiUIMapView.java	21186
+					ViewProxy.java	15708
+		timodule.xml	1280
+	anvil
+		configSet
+			Resources
+				hammer.js	2060
+				suites
+					map.js	3401
+			configs
+				map
+					app.js	709
+					example_tiapp.xml	1581
+			name.txt	3
+	apidoc
+		Annotation.yml	6076
+		Camera.yml	2733
+		Map.yml	15763
+		Route.yml	1797
+		View.yml	24017
+	ios
+		Classes
+			TiMKOverlayPathUniversal.h	1612
+			TiMapAnnotationProxy.h	1139
+			TiMapAnnotationProxy.m	8252
+			TiMapCameraProxy.h	452
+			TiMapCameraProxy.m	3146
+			TiMapCustomAnnotationView.h	695
+			TiMapCustomAnnotationView.m	3029
+			TiMapIOS7View.h	484
+			TiMapIOS7View.m	3590
+			TiMapIOS7ViewProxy.h	378
+			TiMapIOS7ViewProxy.m	604
+			TiMapImageAnnotationView.h	595
+			TiMapImageAnnotationView.m	2035
+			TiMapModule.h	1383
+			TiMapModule.m	2389
+			TiMapModuleAssets.h	202
+			TiMapModuleAssets.m	582
+			TiMapPinAnnotationView.h	572
+			TiMapPinAnnotationView.m	1869
+			TiMapRouteProxy.h	668
+			TiMapRouteProxy.m	3415
+			TiMapView.h	2073
+			TiMapView.m	26969
+			TiMapViewProxy.h	1212
+			TiMapViewProxy.m	9906
+		LICENSE	11485
+		README	4871
+		TiMap_Prefix.pch	62
+		assets
+			README	270
+		build.py	6777
+		documentation
+			changelog.md	577
+			index.md	1326
+		example
+			app.js	1523
+			map_pin.png	4656
+			map_pin@2x.png	6094
+			tests
+				annotations.js	3208
+				camera.js	3780
+				multiMap.js	1554
+				properties.js	2283
+				routes.js	2188
+			ui.js	948
+		hooks
+			README	84
+			add.py	755
+			install.py	295
+			remove.py	763
+			uninstall.py	294
+		manifest	434
+		map.xcodeproj
+			project.pbxproj	26324
+		module.xcconfig	828
+		platform
+			README	484
+		ti.map-iphone-2.0.3.zip	727961
+		timodule.xml	429
+		titanium.xcconfig	562
+ti.map-stable.zip	3156828
+titanium
+	Ti
+		API.js	1447
+		Accelerometer.js	809
+		Analytics.js	785
+		App
+			Properties.js	1852
+		App.js	499
+		Blob.js	1043
+		BlobStream.js	119
+		Buffer.js	2564
+		BufferStream.js	121
+		Codec.js	1853
+		Facebook
+			LoginButton.js	1925
+		Facebook.js	4993
+		Filesystem
+			File.js	245
+			FileStream.js	130
+		Filesystem.js	1976
+		Geolocation.js	5297
+		Gesture.js	2866
+		IOStream.js	1119
+		Locale.js	2399
+		Map
+			Annotation.js	1010
+			View.js	236
+		Map.js	551
+		Media
+			AudioPlayer.js	132
+			Sound.js	126
+			VideoPlayer.js	7941
+		Media.js	1325
+		Network
+			HTTPClient.js	5395
+		Network.js	1890
+		Platform
+			DisplayCaps.js	529
+		Platform.js	2969
+		UI
+			2DMatrix.js	2230
+			ActivityIndicator.js	3793
+			ActivityIndicatorStyle.js	177
+			AlertDialog.js	2784
+			Animation.js	11955
+			Button.js	5063
+			Clipboard.js	1156
+			EmailDialog.js	1104
+			ImageView.js	6595
+			Label.js	4262
+			MobileWeb
+				NavigationGroup.js	5898
+				TableViewSeparatorStyle.js	171
+			MobileWeb.js	263
+			OptionDialog.js	2559
+			Picker.js	7955
+			PickerColumn.js	7696
+			PickerRow.js	434
+			ProgressBar.js	2488
+			ScrollView.js	4436
+			ScrollableView.js	11800
+			Slider.js	3177
+			Switch.js	4161
+			Tab.js	2992
+			TabGroup.js	8090
+			TableView.js	11816
+			TableViewRow.js	4079
+			TableViewSection.js	5136
+			TextArea.js	842
+			TextField.js	3310
+			View.js	2025
+			WebView.js	5738
+			Window.js	2210
+		UI.js	14805
+		Utils.js	9689
+		XML.js	1436
+		Yahoo.js	652
+		_
+			Evented.js	1716
+			Filesystem
+				Local.js	13753
+			Gestures
+				DoubleTap.js	1586
+				Dragging.js	2055
+				LongPress.js	1466
+				Pinch.js	3159
+				SingleTap.js	1700
+				Swipe.js	2464
+				TouchCancel.js	452
+				TouchEnd.js	438
+				TouchMove.js	444
+				TouchStart.js	446
+				TwoFingerTap.js	4532
+			Layouts
+				Base.js	3953
+				Composite.js	16661
+				ConstrainingHorizontal.js	16296
+				ConstrainingVertical.js	16301
+				Horizontal.js	14389
+				Vertical.js	13611
+			Layouts.js	506
+			Map
+				Google.js	13753
+			UI
+				Element.js	22068
+				FontWidget.js	2304
+				KineticScrollView.js	15200
+				SuperView.js	1289
+				TextBox.js	3204
+				WebViewBridge.js	544
+				Widget.js	201
+				blank.html	39
+			analytics.js	4558
+			browser.js	187
+			colors.js	3818
+			css.js	719
+			declare.js	2893
+			dom.js	3781
+			encoding.js	1240
+			event.js	349
+			has.js	1127
+			image.js	317
+			include.js	1170
+			lang.js	6715
+			ready.js	1436
+			string.js	10228
+			style.js	1645
+			text.js	729
+		_.js	1833
+	Ti.js	6758
+	dependencies.json	10476
+	package.json	660
+titanium.css	37391
+titanium.js	481217

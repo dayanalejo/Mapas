@@ -1,0 +1,23 @@
+{
+	"target": "simulator",
+	"deployType": "development",
+	"deviceFamily": "iphone",
+	"iosSdkPath": "/Users/desarrollador1/Library/Application Support/Titanium/mobilesdk/osx/3.3.0.GA/iphone",
+	"tiCoreHash": "77157e1ffaec640cf559356a147b6a4c",
+	"modulesHash": "abc4aee7586d31989342073f9b4d9e74",
+	"modulesNativeHash": "e08292e271a0d5863c72cbf4cf65445a",
+	"gitHash": "787cd39",
+	"name": "MapasPrueba2",
+	"id": "com.mapas.prueba2",
+	"analytics": true,
+	"publisher": "not specified",
+	"url": "http://example.com",
+	"version": "1.0",
+	"description": "not specified",
+	"copyright": "not specified",
+	"guid": "4b0d0fad-b478-4e41-8183-65800b70ede3",
+	"skipJSMinification": true,
+	"forceCopy": false,
+	"forceCopyAll": false,
+	"encryptJS": false
+}
